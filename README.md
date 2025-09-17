@@ -19,8 +19,8 @@ To write a program to predict the profit of a city using the linear regression m
 ## Program:
 ```
 Program to implement the linear regression using gradient descent.
-Developed by: HARINI V
-RegisterNumber:212222230044  
+Developed by: MADAVAN.V
+RegisterNumber:25018573
 ```
 ```python
 import numpy as np
@@ -129,5 +129,3 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
-
-
